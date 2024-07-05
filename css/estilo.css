@@ -126,6 +126,7 @@ section h2 {
 section.carrossel {
     background: rgb(235, 213, 225);
     padding-bottom: 100px;
+    padding-top: 70px;
 
 }
 
@@ -374,3 +375,4 @@ section.quemsomos {
     margin-bottom: 20px;
     margin-left: -200px;
 }
+
